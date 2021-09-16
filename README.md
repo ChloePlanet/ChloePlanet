@@ -2,7 +2,7 @@
 
 **I'm Chloe.**
 
-- 5+ years professional experience as software developer. Specialised in backend and infrastructure development. Have been working in various fields - IoT, crypto currency and banking.
+- 5+ years professional experience as software developer. Specialised in backend and infrastructure development. Have been working in various fields - IoT, cryptocurrency and banking.
 - Fast learner and eager to explore new technologies and challenges. Able to switch between perfectionism and pragmatism.
 - Currently working on [sysl](https://sysl.io/) and a set of tools associated with it.
 
